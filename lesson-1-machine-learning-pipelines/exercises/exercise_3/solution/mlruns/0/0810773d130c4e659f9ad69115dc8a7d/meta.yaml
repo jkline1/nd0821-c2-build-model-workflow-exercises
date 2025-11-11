@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jared/Project-Build-an-ML-Pipeline-Starter/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/0810773d130c4e659f9ad69115dc8a7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0810773d130c4e659f9ad69115dc8a7d
+run_name: efficient-colt-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762219959242
+status: 1
+tags: []
+user_id: jared

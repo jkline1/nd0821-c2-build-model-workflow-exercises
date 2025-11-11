@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jared/Project-Build-an-ML-Pipeline-Starter/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/f9d28aebbbc14a9eb38d125a57de10db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d28aebbbc14a9eb38d125a57de10db
+run_name: debonair-carp-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762219754055
+status: 1
+tags: []
+user_id: jared

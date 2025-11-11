@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jared/Project-Build-an-ML-Pipeline-Starter/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/3fb8cd80542d4ede9d36d91dad201c4e/artifacts
+end_time: 1762219959234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fb8cd80542d4ede9d36d91dad201c4e
+run_name: unequaled-rook-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762219915131
+status: 3
+tags: []
+user_id: jared
